@@ -138,6 +138,3 @@ This experience directly aligns with the requirements of this project, as the Wh
 ![Timeline](./timeline.png)
 
 ---
-
-## Conclusion
-This project will provide a seamless communication channel between healthcare providers and patients, ensuring timely responses, improved hospital resource management and better patient engagement. By leveraging Whatsapp’s widespread adoption, the system will be user-friendly and highly accessible.
