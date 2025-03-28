@@ -25,10 +25,8 @@
 
 I am a Python backend developer with a mechanical engineering background and hands-on experience at a robotics company, where I worked on projects that bridged hardware and software in impactful ways.
 
-Over time, I’ve developed a solid foundation in backend development, with practical skills in:
-- Database design  
-- API development  
-- System integration  
+Over time, I’ve developed a solid foundation in backend development, with practical skills in Database design  
+and API development  
 
 I also enjoy working on automation projects and am currently exploring cloud platforms to better understand scalable system design.
 
@@ -51,7 +49,6 @@ I followed how Kerala tackled the COVID-19 pandemic and learning that OHN played
 The CARE system provides hospital and patient management infrastructure to streamline healthcare services. This project aims to integrate a **Whatsapp chatbot** into the CARE backend, improving communication efficiency for:
 - Patients  
 - Hospital staff  
-- Nurses  
 
 By leveraging Whatsapp's accessibility, the bot will facilitate quick responses, appointment scheduling and essential healthcare interactions, reducing the dependency on web apps. This will save time for all stakeholders and enhance the user experience, particularly for those unfamiliar with web applications.
 
@@ -83,8 +80,8 @@ By leveraging Whatsapp's accessibility, the bot will facilitate quick responses,
 - Develop a new plugin while adhering to the standard coding format used in existing plugins.
 
 ### Data Flow
-1. Users request information via Whatsapp and the bot retrieves data from the CARE backend.
-2. CARE system sends automated notifications and updates to users via Whatsapp.
+- Users request information via Whatsapp and the bot retrieves data from the CARE backend.
+-  CARE system sends automated notifications and updates to users via Whatsapp.
 
 ---
 
@@ -139,16 +136,6 @@ This experience directly aligns with the requirements of this project, as the Wh
 
 ## Timeline
 ![Timeline](./timeline.png)
-
-
-| Phase   | Date           | Task  |
-|---------|--------------|------------------------------------------------|
-| **Phase 1**  | Mar 28 - Apr 5  | Understand CARE architecture  |
-| **Phase 1**  | Apr 6 - Apr 16  | Analyze Whatsapp API, Webhook, Message Templates and Cost Estimation  |
-| **Phase 1**  | Apr 16 - May 1  | Finalize design and review  |
-| **Phase 2**  | May 1 - May 7   | Complete development  |
-| **Phase 3**  | May 8 - May 20  | Unit, Integration and Load Testing  |
-| **Phase 4**  | May 21 - May 28 | Final Documentation and Deployment  |
 
 ---
 
